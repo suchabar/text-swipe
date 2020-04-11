@@ -1,0 +1,22 @@
+{
+    "myenv": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-textswipe-myenv-182049-authRole",
+            "UnauthRoleArn": "arn:aws:iam::628728959240:role/amplify-textswipe-myenv-182049-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::628728959240:role/amplify-textswipe-myenv-182049-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-textswipe-myenv-182049-deployment",
+            "UnauthRoleName": "amplify-textswipe-myenv-182049-unauthRole",
+            "StackName": "amplify-textswipe-myenv-182049",
+            "StackId": "arn:aws:cloudformation:eu-west-1:628728959240:stack/amplify-textswipe-myenv-182049/6a753a90-7c10-11ea-a072-02bc3c3f62ee",
+            "AmplifyAppId": "d3om1a5udqg3a2"
+        },
+        "categories": {
+            "auth": {
+                "textswipe95cf72e9": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Google\",\"client_id\":\"655785793577-0u2f6j8upt18tl6i8fo2aig2f2bfbdtr.apps.googleusercontent.com\",\"client_secret\":\"Cc367W0R_mJYr-cNEBBQ03Pr\"}]"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "auth": {
+        "textswipe95cf72e9": {
+            "service": "Cognito",
+            "providerPlugin": "awscloudformation",
+            "dependsOn": [],
+            "customAuth": false
+        }
+    },
+    "storage": {
+        "textSwipeStorage": {
+            "service": "S3",
+            "providerPlugin": "awscloudformation"
+        }
+    }
+}
